@@ -58,9 +58,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinturpin97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+## 📊 GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kevinturpin97&theme=tokyonight&hide_border=true)
 
